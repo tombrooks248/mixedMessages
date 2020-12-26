@@ -5,3 +5,6 @@ const randomArrayGenerator = (array) => {
 }
 
 console.log(messages[randomArrayGenerator(messages)])
+
+
+// I these are some comments to see if I can put them into github
